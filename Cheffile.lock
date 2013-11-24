@@ -1,7 +1,7 @@
 SITE
   remote: http://community.opscode.com/api/v1
   specs:
-    dmg (2.0.4)
+    dmg (2.0.8)
     homebrew (1.5.2)
 
 PATH
@@ -74,7 +74,7 @@ PATH
       sprout-osx-base (>= 0.0.0)
 
 DEPENDENCIES
-  dmg (= 2.0.4)
+  dmg (= 2.0.8)
   homebrew (>= 0)
   osx (>= 0)
   pivotal_workstation (>= 0)
